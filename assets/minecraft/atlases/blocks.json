@@ -9,6 +9,11 @@
 			"type": "directory",
 			"source": "mr",
 			"prefix": "mr/"
+		},
+		{
+			"type": "directory",
+			"source": "structure",
+			"prefix": "structure/"
 		}
 	]
 }

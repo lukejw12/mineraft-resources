@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "raft_items:item/structure/foundations/basic_foundation"
+        "model": "mineraft:structures/foundations/basic_foundation"
     }
 }

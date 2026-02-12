@@ -3,10 +3,10 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [48, 48],
 	"textures": {
-		"0": "mineraft:mr/structures/foundations/basic/raft_basic_foundation_side",
-		"1": "mineraft:mr/structures/foundations/basic/raft_basic_foundation_bottom",
-		"2": "mineraft:mr/structures/foundations/basic/raft_basic_platform",
-		"particle": "mineraft:mr/structures/foundations/basic/raft_basic_foundation_side"
+		"0": "mineraft:mr/structures/foundations/basic/foundation_side",
+		"1": "mineraft:mr/structures/foundations/basic/foundation_bottom",
+		"2": "mineraft:mr/structures/foundations/basic/platform",
+		"particle": "#2"
 	},
 	"elements": [
 		{
