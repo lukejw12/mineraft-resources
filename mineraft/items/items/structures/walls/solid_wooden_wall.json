@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "mineraft:items/structures/walls/solid_wooden_wall"
+    }
+}

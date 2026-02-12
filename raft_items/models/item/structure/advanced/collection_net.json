@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "raft_items:item/structure/advanced/collection_net"
+  }
+}

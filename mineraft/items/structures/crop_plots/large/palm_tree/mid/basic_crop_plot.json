@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "minecraft:composite",
+        "models": [
+            {
+                "type": "model",
+                "model": "mineraft:structures/crop_plots/large/palm_tree/mid/basic_bottom"
+            },
+            {
+                "type": "minecraft:model",
+                "model": "mineraft:structures/crop_plots/large/palm_tree/mid/basic_top"
+            },
+            {
+                "type": "minecraft:model",
+                "model": "mineraft:structures/crop_plots/large/palm_tree/mid/palm_tree"
+            }
+        ]
+    }
+}

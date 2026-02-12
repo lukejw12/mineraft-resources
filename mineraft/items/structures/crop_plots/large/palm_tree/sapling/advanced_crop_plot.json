@@ -1,0 +1,15 @@
+{
+    "model": {
+        "type": "minecraft:composite",
+        "models": [
+            {
+                "type": "model",
+                "model": "mineraft:structures/crop_plots/large/palm_tree/sapling/advanced_bottom"
+            },
+            {
+                "type": "minecraft:model",
+                "model": "mineraft:structures/crop_plots/large/palm_tree/sapling/advanced_top"
+            }
+        ]
+    }
+}

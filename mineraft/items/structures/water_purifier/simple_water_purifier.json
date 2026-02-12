@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "mineraft:structures/water_purifier/simple_water_purifier"
+    }
+}

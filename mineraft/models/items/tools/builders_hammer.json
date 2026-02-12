@@ -1,0 +1,6 @@
+{
+    "parent": "item/mace",
+	"textures": {
+		"layer0": "mineraft:mr/items/tools/builders_hammer"
+        }
+}

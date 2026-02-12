@@ -1,0 +1,14 @@
+{
+	"sources": [
+		{
+			"type": "directory",
+			"source": "blueprint",
+			"prefix": "blueprint/"
+		},
+		{
+			"type": "directory",
+			"source": "mr",
+			"prefix": "mr/"
+		}
+	]
+}

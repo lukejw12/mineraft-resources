@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+	"textures": {
+		"layer0": "mineraft:mr/items/structures/foundations/advanced_foundation"
+        }
+}
