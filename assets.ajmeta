@@ -1,0 +1,31 @@
+{
+	"formatVersion": "1.0.0",
+	"rigs": {
+		"mineraft": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/items/blueprint/mineraft/body.json",
+				"assets/animated_java/items/blueprint/mineraft/body_seg_1.json",
+				"assets/animated_java/items/blueprint/mineraft/body_seg_2.json",
+				"assets/animated_java/items/blueprint/mineraft/body_seg_3.json",
+				"assets/animated_java/items/blueprint/mineraft/bottom_jaw.json",
+				"assets/animated_java/items/blueprint/mineraft/dorsal_fin_body.json",
+				"assets/animated_java/items/blueprint/mineraft/fin.json",
+				"assets/animated_java/items/blueprint/mineraft/gills.json",
+				"assets/animated_java/items/blueprint/mineraft/tail.json",
+				"assets/animated_java/items/blueprint/mineraft/top_jaw.json",
+				"assets/animated_java/models/blueprint/mineraft/body.json",
+				"assets/animated_java/models/blueprint/mineraft/body_seg_1.json",
+				"assets/animated_java/models/blueprint/mineraft/body_seg_2.json",
+				"assets/animated_java/models/blueprint/mineraft/body_seg_3.json",
+				"assets/animated_java/models/blueprint/mineraft/bottom_jaw.json",
+				"assets/animated_java/models/blueprint/mineraft/dorsal_fin_body.json",
+				"assets/animated_java/models/blueprint/mineraft/fin.json",
+				"assets/animated_java/models/blueprint/mineraft/gills.json",
+				"assets/animated_java/models/blueprint/mineraft/tail.json",
+				"assets/animated_java/models/blueprint/mineraft/top_jaw.json",
+				"assets/animated_java/textures/blueprint/mineraft/shark.png"
+			]
+		}
+	}
+}
