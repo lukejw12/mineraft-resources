@@ -5,8 +5,14 @@
   "item.mineraft.wooden_plank": "Wooden Plank",
   
   "item.mineraft.scrap": "Scrap",
+  "item.mineraft.nail": "Nail",
+  "item.mineraft.metal_ore": "Metal Ore",
+  "item.mineraft.metal_ingot": "Metal Ingot",
   
   "item.mineraft.building_hammer": "Building Hammer",
+  "item.mineraft.empty_cup": "Empty Cup",
+  "item.mineraft.saltwater_cup": "Cup of Saltwater",
+  "item.mineraft.freshwater_cup": "Cup of Freshwater",
   
   "structure.mineraft.advanced_collection_net": "Advanced Collection Net",
   "structure.mineraft.advanced_foundation": "Advanced Foundation",
@@ -14,5 +20,7 @@
   "structure.mineraft.solid_wooden_platform": "Solid Wooden Platform",
   "structure.mineraft.solid_wooden_wall": "Solid Wooden Wall",
   "structure.mineraft.wooden_platform": "Wooden Platform",
-  "structure.mineraft.wooden_wall": "Wooden Wall"
+  "structure.mineraft.wooden_wall": "Wooden Wall",
+  
+  "item.mineraft.salt": "Salt"
 }

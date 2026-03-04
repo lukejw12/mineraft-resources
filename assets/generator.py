@@ -30,8 +30,8 @@ f'''{{
     "layer0": "{namespace}:item''' + new_filepath + '"\n  }\n}')
                 item.write(
 f'''{{"model":{{
-    "type": "minecraft:model",
-    "model": "{namespace}:item''' + new_filepath + '"\n}}')
+  "type": "minecraft:model",
+  "model": "{namespace}:item''' + new_filepath + '"\n}}')
 
 
 def generate_lang_files(namespace='raft_items', entrytype='item.mineraft.', path=None, entryname_prefix=''):

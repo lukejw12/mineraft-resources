@@ -1,4 +1,4 @@
 {"model":{
-    "type": "minecraft:model",
-    "model": "raft_items:item/plastic"
+  "type": "minecraft:model",
+  "model": "raft_items:item/plastic"
 }}
